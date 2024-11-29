@@ -1,4 +1,1 @@
-# dcc-portfolio
-Department of Cloud Computing Members Portfolio Website
-
-Instructions to be completed
+# AWSCC Department of Cloud Computing Members Portfolio Website
